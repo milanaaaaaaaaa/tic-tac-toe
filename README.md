@@ -23,5 +23,5 @@
    ```bash
    git clone https://github.com/ваш-логин/tic-tac-toe.git
    cd tic-tac-toe
-✅ Все ветки успешно слиты.
-✅ Все ветки успешно слиты.
+
+# Коммит от adist00
